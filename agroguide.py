@@ -64,8 +64,10 @@ st.markdown("""
 .stApp {
     background-color: #F4F8F1;
 }
-h1, h2, h3 {
-    color: #245C38;
+h1, h2, h3, h4, h5, h6 {
+    color: #17452B !important;
+    opacity: 1 !important;
+}
 }
 .stButton>button {
     background-color: #287A45;
